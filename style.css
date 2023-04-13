@@ -1,0 +1,119 @@
+body {
+    font-family: 'Righteous', cursive;    text-align: center;
+    background-color: #f5f5f5;
+  }
+  
+  h1 {
+    margin-top: 50px;
+    font-size: 36px;
+    color: #333;
+  }
+
+  form {
+    margin-top: 30px;
+  }
+  
+  body {
+    font-family: 'Righteous', cursive;    text-align: center;
+    background-color: #f5f5f5;
+  }
+  
+  h1 {
+    margin-top: 50px;
+    font-size: 36px;
+    color: #333;
+  }
+
+  form {
+    margin-top: 30px;
+  }
+  
+  label {
+    display: absolute;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  input[type="number"] {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    background-color: #9341ff;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #3f1e8b;
+  }
+  
+  #number {
+    margin-top: 5px;
+    font-size: 50px;
+    box-shadow: #000000;
+    font-weight: bold;
+    color: #000000;
+  }
+  .my-element {
+    /* другие свойства элемента */
+    color: #333;
+    font-size: 50px;
+  }
+  
+  .my-element:before {
+    content: "\f76e";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+  }
+  
+  label {
+    display: absolute;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  input[type="number"] {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    background-color: #9341ff;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #3f1e8b;
+  }
+  
+  #number {
+    margin-top: 5px;
+    font-size: 50px;
+    box-shadow: #000000;
+    font-weight: bold;
+    color: #000000;
+  }
+  
